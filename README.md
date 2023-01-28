@@ -3,4 +3,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jericho1060&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jericho1060&theme=dracula&utcOffset=0)
 
-Full Time lead developer @Sayaris
+Full Stack developer, New technologies enthusiast, Building open source project for gaming and gamers.
