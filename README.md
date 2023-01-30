@@ -5,3 +5,5 @@
 
 
 Full Stack developer, New technologies enthusiast, Building open source project for gaming and gamers.
+
+![](https://www.data-card-for-spotify.com/api/card?user_id=lpxz0imjhooxr2ddh5bixk6rx)
